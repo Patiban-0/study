@@ -15,8 +15,8 @@ vv('(ﾟ∀ﾟ)ｱﾋｬ2');
 })();
 
 //if文
-let 1=prompt('数字を入力');
-if(1=='0'||1=='０'){
+let ur=prompt('数字を入力');
+if(ur=='0'||ur=='０'){
   console.log('〇');
 }else{
   console.log('✕');
