@@ -1,10 +1,10 @@
 //変数
 let a1;　//const var
 //関数
-function a(bb){
+function aiueo(bb){
   console.log(bb)
 }
-a('(ﾟ∀ﾟ)ｱﾋｬ');
+aiueo('(ﾟ∀ﾟ)ｱﾋｬ');
 aa(bbb)=>{
   console.log(bbb)
 }
@@ -26,5 +26,5 @@ while(o==0){
   if(o%10==0){
     console.log(o+'Test');
   }
-  a++;
+  o++;
 }
