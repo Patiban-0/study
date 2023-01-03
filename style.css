@@ -1,4 +1,7 @@
-body{
-  background-color:#000000;
+@charset "UTF-8";
+.color{
   color:#ffffff;
+}
+body{
+  backgroud-color:#000000;
 }
