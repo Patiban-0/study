@@ -1,7 +1,5 @@
 //変数
-let a1;
-const b1;
-var c1;
+let a1;　//const var
 //関数
 function a(bb){
   console.log(bb)
@@ -18,6 +16,9 @@ if(1==0){
 }else{
   console.log('✕');
 }
+(()=>{
+  console.log('test00');
+})();
 //繰り返し文(while)
 let o=0;
 while(o==0){
