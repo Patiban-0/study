@@ -21,7 +21,7 @@ if(1==0){
 })();
 //繰り返し文(while)
 let o=0;
-while(o==0){
+while(o<10001){
   console.log(o);
   if(o%10==0){
     console.log(o+'Test');
