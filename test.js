@@ -23,7 +23,6 @@ if(1==0){
 })();
 
 //繰り返し文(while)
-let pp=prompt('1~100数字を選んで入力');
 let o=0;
 while(o<1001){
   console.log(o);
