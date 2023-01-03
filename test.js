@@ -27,8 +27,8 @@ let pp=prompt('1~100数字を選んで入力');
 let o=0;
 while(o<1001){
   console.log(o);
-  if(o%${pp}==0){
-    console.log(o+'は'${pp});
+  if(o%10==0){
+    console.log(o+'は10の倍数');
   }
   o++;
 }
