@@ -10,17 +10,17 @@ let vv=(bbb)=>{
   return console.log(bbb);
 }
 vv('(ﾟ∀ﾟ)ｱﾋｬ2');
+(()=>{
+  console.log('test00');
+})();
 
 //if文
-let 1=0;
-if(1==0){
+let 1=prompt('数字を入力');
+if(1=='0'||1=='０'){
   console.log('〇');
 }else{
   console.log('✕');
 }
-(()=>{
-  console.log('test00');
-})();
 
 //繰り返し文(while)
 let o=0;
