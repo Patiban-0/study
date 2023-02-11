@@ -31,3 +31,9 @@ while(o<1001){
   }
   o++;
 }
+//繰り返し分(for)
+for (let ue = 0; ue<=1001; ue++){
+  if(ue%10==0){
+    console.log(ue+'は10の倍数');
+  }
+}
