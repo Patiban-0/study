@@ -14,7 +14,7 @@ function getCookieValue(key) {
   return '';
 }
 let sold_nic_person_spaceAD_bwi = document.body.innerHTML;
-document.body.innerHTML = "<br><br><br><br><br><br><b>Enter Password</b><br>";
+document.body.innerHTML = "<br><br><br><br><br><br><b style = 'font-size:20px;'>Enter Password</b><br>";
 let input = document.createElement("input");
 input.id = "pass";
 input.type = "text";
